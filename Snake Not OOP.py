@@ -1,26 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  7 11:37:07 2020
 
-@author: woowo
-"""
-
-'''
-1) Set up window 
-2) Create movable square that when it comes in contact with the edges
-   the game ends.
-3) Create randomly generated apples
-4) Make the snake grow when it touches the apples.
-5) Create a list of "blocks" in the snake. When the snake head turns,
-   make it so that the second block in the list list[1] turns when it
-   reaches the spot where the head turns. Also, ensure that the tail is
-   being erased every time.
-6) Create a scoreboard kind of vibe
-7) End screen?
-8) Import sprites?
-9) Fix bugs
-     
-'''
 
 import pygame
 import time
